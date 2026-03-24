@@ -21,7 +21,7 @@ A simple RESTful API built with Java and Spring Boot to simulate a WhatsApp chat
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/whatsapp-chatbot-backend.git](https://github.com/yourusername/whatsapp-chatbot-backend.git)
+   git clone https://github.com/ekkali/whatsapp-chatbot-backend.git
    cd whatsapp-chatbot-backend
 Build the project using Maven:
 
